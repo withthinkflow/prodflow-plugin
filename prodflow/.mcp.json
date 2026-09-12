@@ -1,0 +1,7 @@
+{
+  "prodflow": {
+    "type": "http",
+    "url": "${PRODFLOW_URL:-http://localhost:3000}/mcp",
+    "headers": { "Authorization": "Bearer ${PRODFLOW_TOKEN}" }
+  }
+}
