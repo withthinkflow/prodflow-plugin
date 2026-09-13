@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "prodflow",
-      "description": "ProdFlow tasks, sprints, roadmap and wiki via MCP. Needs PRODFLOW_TOKEN (create one on the workspace MCP page) and optionally PRODFLOW_URL.",
+      "description": "ProdFlow tasks, sprints, roadmap, wiki and flows via MCP. Needs PRODFLOW_TOKEN (create one on the workspace MCP page) and optionally PRODFLOW_URL.",
       "category": "productivity",
       "source": "./prodflow"
     }
