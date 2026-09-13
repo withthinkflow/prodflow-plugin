@@ -12,3 +12,7 @@ claude
 ```
 
 `PRODFLOW_URL` is the API origin, `/mcp` is appended. Behind the Vite proxy or a hosted deploy that is `<origin>/api`.
+
+## Flow tools
+
+`list_flows`, `get_flow`, `create_flow`, `update_flow` read and write draw.io diagrams in a project's Flow & Wireframe section. `get_flow` returns plain `<mxGraphModel>` xml even when draw.io stored it compressed; send the whole document back with `update_flow`.
