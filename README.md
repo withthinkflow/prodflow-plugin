@@ -24,5 +24,5 @@ and correct. `get_wiki_schema` returns the conventions; `list_wiki_activity`
 is the log; `lint_wiki` the health check.
 
 - `/prodflow:wiki-file` files the current conversation: entity pages
-  updated, concept pages created, one session page linking everything.
+  updated, concept pages created, one page tagged #session linking everything.
 - `/prodflow:wiki-lint` runs the health check and fixes what it can.
