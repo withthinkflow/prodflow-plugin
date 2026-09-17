@@ -1,6 +1,6 @@
 {
   "name": "prodflow",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ProdFlow tasks, sprints, roadmap, wiki and flows via MCP.",
   "author": { "name": "ThinkFlow" }
 }
